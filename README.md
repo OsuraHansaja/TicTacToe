@@ -8,8 +8,9 @@
 - Interactive player turns (X and O).
 - Winning logic with a message displayed for the winner.
 - A "Restart" button to reset the game.
+- Link to try: https://osurahansaja.github.io/TicTacToe/
 
-<p align="center">
+<p align="justify">
   This project was done to refresh memory of and to try out basic concepts of DOM manipulation, event handling, and game state management in JavaScript.
 </p>
 
