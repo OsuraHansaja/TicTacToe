@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Orbitron', sans-serif;">Origin Esports CRM</h1>
+<h1 align="center" style="font-family: 'Orbitron', sans-serif;">TicTacToe</h1>
 
 <p align="center">
   This is a simple Tic Tac Toe game built using basic HTML, CSS, and JavaScript. The project serves as a learning exercise to understand the core logic and structure behind creating an interactive web-based game. It features:
@@ -16,4 +16,6 @@
 ---
 
 ## Screenshot
-![TicTacToeGrid](screenshot.PNG)
+<p align="center">
+  <img src="screenshot.PNG" alt="TicTacToeGrid" width="300">
+</p>
