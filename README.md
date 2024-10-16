@@ -18,5 +18,5 @@
 
 ## Screenshot
 <p align="center">
-  <img src="screenshot.PNG" alt="TicTacToeGrid" width="300">
+  <img src="screenshotUpdated.PNG" alt="TicTacToeGrid" width="300">
 </p>
